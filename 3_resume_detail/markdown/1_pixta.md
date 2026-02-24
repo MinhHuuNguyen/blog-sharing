@@ -1,5 +1,5 @@
 ---
-time:
+time: 02/28/2026
 title: Chặng đường mà tôi đã đi qua ở Pixta Vietnam
 description: Bài viết chia sẻ về các kiến thức và kinh nghiệm tôi đã tích lũy được trong quá trình làm việc tại các dự án của Team AI tại Pixta Vietnam.
 banner_url:
