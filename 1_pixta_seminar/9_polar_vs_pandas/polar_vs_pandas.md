@@ -9,4 +9,3 @@ is_published: true
 ---
 
 Slide của bài seminar này có thể được xem ở [đây](https://github.com/MinhHuuNguyen/blog-sharing/blob/master/1_pixta_seminar/3_polar_vs_pandas/slide.pdf).
-
