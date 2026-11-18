@@ -12,7 +12,7 @@ Hình ảnh trong buổi seminar:
 
 <img src="https://raw.githubusercontent.com/MinhHuuNguyen/blog-sharing/refs/heads/master/1_pixta_seminar/7_how_does_machine_understand_the_audio/img_2.jpg" style="width: 1000px;"/>
 
-Bài seminar này được trình bày dựa trên nội dung từ bài giảng [Âm thanh máy tính Computer Audition](/blog/computer-audition-introduction).
+Bài seminar này được trình bày dựa trên nội dung từ bài giảng [Âm thanh máy tính Computer Audition](/blog/am-thanh-may-tinh-computer-audition).
 
 Slide của bài seminar này có thể được xem ở [đây](https://github.com/MinhHuuNguyen/blog-sharing/blob/master/1_pixta_seminar/7_how_does_machine_understand_the_audio/slide.pdf).
 
