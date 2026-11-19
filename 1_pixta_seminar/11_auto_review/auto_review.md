@@ -1,7 +1,7 @@
 ---
 time: 12/17/2024
 title: "[Pixta Seminar] Xây dựng và vận hành hệ thống Auto Review"
-description: Chuỗi seminar này gồm 3 bài seminar, giới thiệu chi tiết về cách thiết kế, xây dựng và vận hành hệ thống Auto Review tại Pixta. Ngoài ra, chuỗi bài seminar cũng đề cập đến môt số quy trình và mindset quan trọng mà các AI Engineer tại Pixta cần có để vận hành các hệ thống AI/ML một cách hiệu quả.
+description: Chuỗi seminar này gồm 3 bài seminar, giới thiệu chi tiết về cách thiết kế, xây dựng và vận hành hệ thống Auto Review tại Pixta. Ngoài ra, chuỗi bài seminar cũng đề cập đến một số quy trình và mindset quan trọng mà các AI Engineer tại Pixta cần có để vận hành các hệ thống AI/ML một cách hiệu quả.
 banner_url: https://raw.githubusercontent.com/MinhHuuNguyen/blog-sharing/refs/heads/master/1_pixta_seminar/11_auto_review/images/auto_review/banner.jpeg
 tags: [pixta-seminar]
 is_highlight: false

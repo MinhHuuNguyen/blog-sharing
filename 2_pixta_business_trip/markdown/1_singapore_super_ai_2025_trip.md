@@ -10,7 +10,7 @@ is_published: true
 
 ## NGÀY 1: Từ Hà Nội đi Singapore, khám phá sân bay Changi và Jewel
 
-Lần đầu đi trên cái băng chuyền chậm thật sự ở sân bay Nội Bài...
+Lần đầu đi trên cái băng chuyền đi bộ thật sự ở sân bay Nội Bài...
 
 <video width="500" autoplay controls muted loop>
     <source src="https://raw.githubusercontent.com/MinhHuuNguyen/blog-sharing/refs/heads/master/2_pixta_business_trip/images/1_singapore_super_ai_2025_trip/1_noi_bai.mp4" type="video/mp4">
@@ -113,7 +113,7 @@ Sau đó đi bộ ra sân vận động quốc gia Singapore...
 </p>
 <br style="clear: both;"/>
 
-Singapore đón chúng tôi bằng một cơn mữa to khủng khiếp...
+Singapore đón chúng tôi bằng một cơn mưa to khủng khiếp...
 
 <video width="500" autoplay controls muted loop>
     <source src="https://raw.githubusercontent.com/MinhHuuNguyen/blog-sharing/refs/heads/master/2_pixta_business_trip/images/1_singapore_super_ai_2025_trip/19_troi_mua.mp4" type="video/mp4">

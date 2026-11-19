@@ -23,6 +23,8 @@ Một tấm khác ở khu vực bên trong hội nghị...
 
 <img src="https://raw.githubusercontent.com/MinhHuuNguyen/blog-sharing/refs/heads/master/2_pixta_business_trip/images/2_singapore_super_ai_2025_conference/4_inside_with_hieu.jpeg" style="width: 600px;"/>
 
+Hội nghị diễn ra vào ngày 2 và ngày 3 của chuyến đi (xem Phần 1). Bài viết này tóm lược ba phần: các session nổi bật, các booth tiêu biểu và khu Networking Village.
+
 ## 1. Session nổi bật
 
 Trong số các session tại Super AI 2025, mình thấy nội dung đa số rơi vào hai chủ đề lớn là AI Agent và Decentralized AI.
@@ -99,14 +101,14 @@ Các booth tại hội nghị Super AI 2025 cũng rất đa dạng và phong ph�
 Mình cực kỳ thích chơi cờ vua nên mình không thể bỏ qua được booth thú vị này...
 Cơ mà nhiều người đứng xem quá nên áp lực, thành ra thua quá...
 
-<video width="8000" autoplay controls muted loop>
+<video width="800" autoplay controls muted loop>
     <source src="https://raw.githubusercontent.com/MinhHuuNguyen/blog-sharing/refs/heads/master/2_pixta_business_trip/images/1_singapore_super_ai_2025_trip/9_booth_chess.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
 ## 3. Networking Village
 
-### 3.1. Trò chuyện một bạn sinh viên trường NUS
+### 3.1. Trò chuyện với một bạn sinh viên trường NUS
 
 Trong khu vực Networking Village, mình có dịp gặp gỡ và trò chuyện với một bạn sinh viên năm cuối của trường Đại học Quốc gia Singapore (NUS) đang theo học ngành Khoa học Máy tính.
 
